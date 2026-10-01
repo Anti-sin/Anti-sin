@@ -10,7 +10,7 @@
 &nbsp;&nbsp;•&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/ankit-bagde-61a15434a/">LinkedIn</a>
 &nbsp;&nbsp;•&nbsp;&nbsp;
-<a href="https://anti-sin.github.io/resume/resume.pdf">↓ Download Resume</a>
+<a href="./Resume_webdev.pdf">↓ Download Resume</a>
 
 </div>
 
