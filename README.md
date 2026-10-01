@@ -8,7 +8,7 @@
   <a href="https://portfolio-ruby-zeta-efph5h7wsc.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/ankit-bagde">
+  <a href="https://www.linkedin.com/in/ankit-bagde-61a15434a/">
     <img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://anti-sin.github.io/resume/resume.pdf">
